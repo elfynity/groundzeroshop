@@ -1,0 +1,53 @@
+
+
+
+@media only screen 
+and (max-width : 1024px) {
+
+
+.woo .woo-sidebar, 
+.woo .woo-content{
+	float:none;
+	width: 100%;
+	padding:0;
+}
+
+.woo .woo-sidebar{
+	margin-bottom:20px;
+}
+
+#page-sidebar-menu{
+	display:none;
+}	
+
+#page-sidebar-menu-mobile{
+	display:block;
+}
+
+
+	
+	
+	
+
+
+
+
+}
+
+
+
+
+@media only screen 
+and (max-width : 768px) {
+	
+	.woo #customer_details, 
+.woo #h3.order_review_heading, 
+.woo .woocommerce-checkout-review-order{
+	float:none;
+	width: 100%;
+	margin-right: 0;
+}
+	
+	
+	
+}
